@@ -7,7 +7,9 @@ export default {
   theme: {
     extend: {},
     fontFamily: {
-      monospace: ["InterNanum Gothic Coding", "monospace"],
+      san: ["Raleway", "sans-serif"],
+      monospace: ["InterNanum Gothic Coding", "monospace"]
+      ,
     },
     }
   ,
